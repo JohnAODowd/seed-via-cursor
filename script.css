@@ -1,0 +1,29 @@
+body {
+   text-align: center;
+   font-family: "Courier New";
+   background-color: #99bbbb; 
+}
+
+#coords, #coords_tag {
+  color: #0D4D4D;
+}
+
+#coords {
+  font-size: 25px;
+  margin-top: -15px;
+}
+
+#val, #val_tag {
+  color: #801515;
+}
+
+#val_tag {
+  font-size: 25px;
+  margin-top: 40px;
+}
+
+#val {
+  font-size: 60px;
+  margin-top: -35px;
+}
+
